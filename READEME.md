@@ -13,3 +13,5 @@ git commit -m 'Initial commit'
 git push original master
 
 back in the github repo
+
+This file name should be `README.md`.
